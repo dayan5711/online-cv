@@ -1,24 +1,24 @@
-{% if site.data.first %}
-<section class="section first-section">
+{% if site.data.education %}
+<section class="section education-section">
   <h2 class="section-title"><i class="fa fa-briefcase"></i>Education</h2>
 
-{% for first in site.data.first %}
+{% for education in site.data.education %}
   <div class="item">
 
     <div class="meta">
 
       <div class="upper-row">
-        <h3 class="job-title">{{ first.name }}</h3>
-        <div class="time">{{ first.time }}</div>
+        <h3 class="job-title">{{ education.name }}</h3>
+        <div class="time">{{ education.time }}</div>
       </div><!--//upper-row-->
 
-      <div class="company">{{ first.role }}</div>
+      <div class="company">{{ education.role }}</div>
 
     </div><!--//meta-->
 
-    {% if first.details %}
+    {% if education.details %}
     <div class="details">
-      <p>{{ first.details }}</p>
+      <p>{{ education.details }}</p>
     </div><!--//details-->
     {% endif %}
 
