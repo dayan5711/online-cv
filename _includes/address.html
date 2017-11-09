@@ -1,13 +1,13 @@
-{% if site.data.educations %}
-<div class="education-container container-block">
+{% if site.data.address %}
+<div class="address-container container-block">
 
   <h2 class="container-block-title">Contact Address</h2>
 
-  {% for education in site.data.educations %}
+  {% for address in site.data.address %}
     <div class="item">
-      <h4 class="degree">{{ education.degree }}</h4>
-      <h5 class="meta">{{ education.university }}</h5>
-      <div class="time">{{ education.time }}</div>
+      <h4 class="degree">{{ address.degree }}</h4>
+      <h5 class="meta">{{ address.university }}</h5>
+      <div class="time">{{ address.time }}</div>
     </div><!--//item-->
   {% endfor %}
 
