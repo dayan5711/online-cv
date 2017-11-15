@@ -1,7 +1,6 @@
 {% if site.data.projects %}
 <section class="section projects-section">
-
-  <h2 class="section-title"><i class="fa fa-archive"></i>iGEM Competition Experience</h2>
+  <h2 class="section-title"><i class="fa fa-tasks"></i>iGEM Competition Experience</h2>
 
   {% for intro in site.data.projects %}
   <div class="intro">
@@ -11,21 +10,24 @@
 
   {% for project in site.data.projects %}
     <div class="item">
+    <div class="meta">
 
-      <span class="project-title"><a href="{{ project.link }}">{{ project.title }}</a></span>
+      <div class="upper-row">
+        <h3 class="project-title"><a href="{{ project.link }}">{{ project.title }}</a></h3>
+        <div class="time">{{ project.time }}</div>
+      </div><!--//upper-row-->
+
+      <div class="location">{{ project.location }}</div>
+
+    </div><!--//meta-->
 
       {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+        <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
         
-      <li><span class="project-detail1">{{ project.detail }}</span> </li>
-      <li><span class="project-detail2">{{ project.detail }}</span> </li>
-      <li><span class="project-detail3">{{ project.detail }}</span> </li>
-        
+  </div><!--//item-->
 
-    </div><!--//item-->
   {% endfor %}
 
-<script src="katerblau.js"></script>
 </section><!--//section-->
 {% endif %}

@@ -1,14 +1,14 @@
 - education:
-  name: University of Birmingham, UK
+  name: <font color="#6e3852">University of Birmingham, UK</font>
   time: 1/2016-12/2016
   role: Undergraduate Study Abroad
-  details: "Modules of Biosciences:<br>
+  details: "<b>Modules of Biosciences</b>:<br>
   Microbiology and Infectious Disease, Cell and Developmental Biology, Cancer Biology, Cellular Neurobiology<br>
-  Modules of Computer Science:<br>
+  <b>Modules of Computer Science</b>:<br>
   Introduction to AI, Computational Vision, Machine Learning, Neural Computation"
 - education:
-  name: Huazhong Agricultural University, China
+  name: <font color="#6e3852">Huazhong Agricultural University, China</font>
   time: 09/2012-06/2016 
   role: B.S. in Bioengineering 
-  details: "Highlighted Professional Modules:<br>
+  details: "<b>Highlighted Professional Modules</b>:<br>
   Biochemistry; Microbiology; Molecular Biology; Cell Biology;"

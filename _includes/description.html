@@ -1,0 +1,13 @@
+{% if site.data.description %}
+<div class="interests-container container-block">
+
+  <h2 class="container-block-title">Description Myself</h2>
+
+    <ul class="list-unstyled interests-list">
+      {% for description in site.data.description %}
+        <li><h5>{{ description.word }} </h5><span class="description">{{ description.details }}</span></li>
+      {% endfor %}
+    </ul>
+
+</div><!--//description-->
+{% endif %}

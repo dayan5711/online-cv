@@ -1,22 +1,31 @@
 - experience:
-  role: Li Lab, Center for Bioinformatics, Peking University
+  lab: <font color="#6e3852">Cheng Li Lab, Center for Bioinformatics, Peking University</font>
+  link: "https://scholar.google.co.jp/citations?user=nJd3cIsAAAAJ&hl=en"
   time: 1/2017 - Present
   company: Beijing, China
-  details: "Topic 1: Single-cell RNA-seq analysis of embryonic cells (co-work with Prof. Hongkui Deng)<br>
-  Aim: Dig out the information hidden behind numerous single cell RNAseq data from embryonic cells.
+  details: "<b>Project 1: Single-cell RNA-seq analysis of embryonic cells</b> (co-work with <b>Prof. Hongkui Deng</b>)<br>
+  Dig out the information hidden behind numerous single cell RNAseq data from embryonic cells.
   Lots of efforts are paid and various tools are used, for instance, monocle v2, tSNE, R, single-cell
   RNAseq pipeline. 
   <br> <br>
-  Topic 2: Individual gene based normalization in miRNA-seq (co-work with Prof. Mengqiu Dong)<br>
-  Aim: we have noticed that various serious biases exist in miRNA-seq data and they can not be eliminated
+  <b>Project 2: Individual gene based normalization in miRNA-seq</b> (co-work with <b>Prof. Mengqiu Dong</b>)<br>
+  We have noticed that various serious biases exist in miRNA-seq data and they can not be eliminated
   by normal normalized softwares, like DEseq2. We have built up a novel individual-gene based normalization
   method while others treat all genes as the same. And it turns out performing the best over several popular
-  methods."
+  methods.
+  <br> &hearts; Have finished the analysis of miRNA data from c. elegans
+  <br> &hearts; Built up individual-gene based normalization method
+  <br> &hearts; Have compared the normalization results between our method with others
+  <br> &hearts; Work on the manuscript now"
 - experience:
-  role: Kreft Lab, Center of Computational Biology, University of Birmingham
+  lab: <font color="#6e3852">Kreft Lab, Center of Computational Biology, University of Birmingham</font>
+  link: "https://scholar.google.co.jp/citations?user=hLRsYpsAAAAJ&hl=en"
   time: 1/2016-12/2016
   company: Birmingham, UK
-  details: "Topic: Individual-based modeling of plasmid dynamics in chemostats and biofilms <br>
-  Aim: Illustrate differences, relationship between narrow host-range and broad host-range plasmids
+  details: "<b>Topic: Individual-based modeling of plasmid dynamics in chemostats and biofilms</b><br>
+  Illustrate differences, relationship between narrow host-range and broad host-range plasmids
   with or without compatibility in two-species assemblages both in chemostats and biofilms by mass 
-  action and individual-based models."
+  action and individual-based models.
+  <br> &hearts; Finished Mass-action Chemostat Model part including results analyses (using Matlab)
+  <br> &hearts; Worked on plasmid part of iDynoMics 1.0 as a contributor(using JAVA)
+  <br> &hearts; write the manuscript now"

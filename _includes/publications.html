@@ -1,0 +1,16 @@
+{% if site.data.publications %}
+<section class="section publications-section">
+  <h2 class="section-title"><i class="fa fa-book"></i>Publications</h2>
+
+{% for publication in site.data.publications %}
+  <div class="item">
+
+    <div class="meta">
+        <p class="publication-title">{{ publication.title }}</p>
+    </div><!--//meta-->
+
+  </div><!--//item-->
+{% endfor %}
+
+</section><!--//section-->
+{% endif %}
