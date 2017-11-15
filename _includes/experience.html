@@ -1,15 +1,15 @@
-{% if site.data.experiences %}
-<section class="section experiences-section">
+{% if site.data.experience %}
+<section class="section experience-section">
   <h2 class="section-title"><i class="fa fa-eye"></i>Research Experiences</h2>
 
-{% for experience in site.data.experiences %}
+{% for experience in site.data.experience %}
   <div class="item">
 
     <div class="meta">
 
       <div class="upper-row">
         <!-- <h3 class="job-title">{{ experience.role }}</h3> -->
-        <h4 class="experience-lab"><a href="{{ experience.link }}">{{ experience.lab }}</a></h4>
+        <div class="experience-lab"><a href="{{ experience.link }}">{{ experience.lab }}</a></div>
         <div class="time">{{ experience.time }}</div>
       </div><!--//upper-row-->
 
