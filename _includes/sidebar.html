@@ -41,6 +41,10 @@
            {% if site.twitter %}
            <li class="twitter"><i class="fa fa-twitter"></i><a href="https://twitter.com/{{site.twitter}}" target="_blank">{{site.twitter}}</a></li>
            {% endif %}
+           
+           {% if site.wechat %}
+           <li class="email"><i class="fa fa-wexin"></i><a href="mailto: {{site.email}}">{{site.email}}</a></li>
+           {% endif %}
 
        </ul>
    </div><!--//contact-container-->
@@ -48,6 +52,6 @@
   {% include address.html %}
   {% include language.html %}
   {% include interests.html %}
-  {% include about.html %}
+  {% include description.html %}
 
 </div><!--//sidebar-wrapper-->

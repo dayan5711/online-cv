@@ -12,7 +12,7 @@ style: styles-4
 
 #Profile information
 name: Qian Zhang
-tagline: Phd Candidate
+tagline: undergraduate
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
@@ -26,6 +26,7 @@ phone: +86 15510210402
 #linkedin: Qian Zhang
 github: qrzhang
 #twitter: '@webjeda'
+wechat: 569149861
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker
