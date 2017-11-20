@@ -6,14 +6,11 @@
   details: "<b>Project 1: Single-cell RNA-seq analysis of embryonic cells</b> (co-work with <b>Prof. Hongkui Deng</b>)<br>
   Dig out the information hidden behind numerous single cell RNAseq data from embryonic cells.
   Lots of efforts are paid and various tools are used, for instance, monocle v2, tSNE, R, single-cell
-  RNAseq pipeline. 
+  RNAseq pipelines. 
   <br> <br>
   <b>Project 2: Individual gene based normalization in miRNA-seq</b> (co-work with <b>Prof. Mengqiu Dong</b>)<br>
-  We have noticed that various serious biases exist in miRNA-seq data and they can not be eliminated
-  by normal normalized softwares, like DEseq2. We have built up a novel individual-gene based normalization
-  method while others treat all genes as the same. And it turns out performing the best over several popular
-  methods.
-  <br> &hearts; Have finished the analysis of miRNA data from c. elegans
+  We have noticed that various sever biases exist in miRNA-seq data and they can not be eliminated by standard normalized software, like DEseq2. We have built up a novel individual gene based normalization method while others treat all genes as the same. And it turns out performing the best over several popular ways.
+  <br> &hearts; Have finished the analysis of miRNA data from <i>c.elegans</i> by miRDeep2
   <br> &hearts; Built up individual-gene based normalization method
   <br> &hearts; Have compared the normalization results between our method with others
   <br> &hearts; Work on the manuscript now"
@@ -28,4 +25,4 @@
   action and individual-based models.
   <br> &hearts; Finished Mass-action Chemostat Model part including results analyses (using Matlab)
   <br> &hearts; Worked on plasmid part of iDynoMics 1.0 as a contributor(using JAVA)
-  <br> &hearts; write the manuscript now"
+  <br> &hearts; Write the manuscript now"
