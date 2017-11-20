@@ -12,6 +12,7 @@ The default theme would look like this
 ![online cv Jekyll theme](https://github.com/qrzhang/online-cv/blob/qz_page/assets/images/online-cv-jekyll-theme.png)
 
 There are 6 color schemes available
+![online cv Jekyll theme colors](https://github.com/qrzhang/online-cv/blob/qz_page/assets/images/online-cv-jekyll-theme-colors.png)
 
 ## Installation
 * Fork the repository
