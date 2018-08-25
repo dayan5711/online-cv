@@ -3,16 +3,27 @@
   link: "https://scholar.google.co.jp/citations?user=nJd3cIsAAAAJ&hl=en"
   time: 1/2017 - Present
   company: Beijing, China
-  details: "<b>Project 1: Single-cell RNA-seq analysis of embryonic cells</b> (co-work with <b>Prof. Hongkui Deng</b>)<br>
-  Dig out the information hidden behind numerous single cell RNAseq data from embryonic stem cells.
-  Lots of efforts are paid and various tools are used, for instance, monocle, Seurat, R, single-cell RNAseq pipelines. 
-  <br> <br>
+  details: "<b>Project 1: Study reprogramming based on single cell RNA-seq analysis</b> (co-work with <b>Prof. Hongkui Deng</b>)<br>
+  This work was published on Cell Stem Cell at year 2018. I am a co-first author of it. <br>
+  Main content : <br>
+  Single-cell RNA sequencing analysis of chemical reprogramming depicts its trajectory and highlights dynamic intermediate cellular programs resembling early embryonic signatures.<br>
+  My contribution: <br>
+  &hearts;The heterogeneity analysis of all three subgroup cells<br>
+  &hearts;Trajectory Reconstruction during chemical induced reprogramming for three subgroups<br>
+  &hearts;All scatter plots, heatmaps, violin plots, venn and volcano plot<br>
+  &hearts;Design and draw the summary figure as well as the the cover<br>
+  &hearts;Keep in touch with those who want to repeat our analysis work and answer their questions.<br>
+  <br>
   <b>Project 2: Individual gene based normalization in miRNA-seq</b> (co-work with <b>Prof. Mengqiu Dong</b>)<br>
-  We have noticed that various sever biases exist in miRNA-seq data and they can not be eliminated by standard normalized software, like DEseq2. We have built up a novel individual gene based normalization method while others treat all genes as the same. And it turns out performing the best over several popular ways.
-  <br> &hearts; Have finished the analysis of miRNA data from <i>c.elegans</i> by miRDeep2
-  <br> &hearts; Built up individual-gene based normalization method
-  <br> &hearts; Have compared the normalization results between our method with others
-  <br> &hearts; Work on the manuscript now"
+  We have noticed that various sever biases exist in miRNA-seq data and they can not be eliminated by standard normalized software, like DEseq2. We have built up a novel individual gene based normalization method while others treat all genes as the same. And it turns out performing the best over several popular ways.<br>
+  &hearts; Have finished the analysis of miRNA data from <i>c.elegans</i> by miRDeep2 <br> 
+  &hearts; Built up individual-gene based normalization method <br> 
+  &hearts; Have compared the normalization results between our method with others <br> 
+  &hearts; Work on the manuscript now <br>
+  <br>
+  <b>Project 3: Study reprogrammed Human tissues based on single cell RNA-seq analysis</b> (co-work with <b>Prof. Hongkui Deng</b>)<br>
+  This work is undergoing. I am fully in charge of  all analysis part and  is a co-first of this work.<br>
+  "
 - experience:
   lab: <strong><font color="#6e3852" size="3"> Kreft Lab, Center of Computational Biology, University of Birmingham </font></strong>
   link: "https://scholar.google.co.jp/citations?user=hLRsYpsAAAAJ&hl=en"
