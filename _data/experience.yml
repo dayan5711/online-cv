@@ -1,38 +1,35 @@
 - experience:
-  lab: <strong><font color="#6e3852" size="3"> Cheng Li Lab, Center for Bioinformatics, Peking University </font></strong>
-  link: "https://scholar.google.co.jp/citations?user=nJd3cIsAAAAJ&hl=en"
-  time: 1/2017 - Present
+  lab: <strong><font color="#6e3852" size="3"> Howard Hughes Medical Institute | Harvard Medical School, USA</font></strong>
+  link: "https://scholar.google.com/citations?user=7UjSqHEAAAAJ&hl=zh-CN&inst=7575085548378563675&oi=ao"
+  time: 02/2019 - Present
+  company: Birmingham, UK
+  details: "Bioinformatician (Advisor: <b>Dr. Yi Zhang</b>)
+  <br> &#10085; Develop analysis algorithm for new technology, low-input Ribolace-seq
+  <br> &#10085; Infer treatment for Pancreatic Cancer with organoid culture system<br>
+  <br>
+  Collaborated with <b>Dr. David Scadden</b> (Harvard University)
+  <br> &#10085; Identify fate decision factors responsible for osteosarcoma with single-cell RNA-seq<br>
+  <br>
+  Collaborated with <b>Dr. Xiaojie Qiu</b> (HHMI, UCSF)
+  <br> &#10085; Contribute to a powerful tool to map single-cell manifold via structure learning
+  <br> &#10085; Apply this new method to hematopoiesis, organoid and other differentiation system
+  "
+
+- experience:
+  lab: <strong><font color="#6e3852" size="3"> Peking University, China </font></strong>
+  link: "https://scholar.google.com/citations?hl=zh-CN&user=nJd3cIsAAAAJ"
+  time: 01/2017 - 01/2019
   company: Beijing, China
-  details: "<b>Project 1: Study reprogramming based on single cell RNA-seq analysis</b> (co-work with <b>Prof. Hongkui Deng</b>)<br>
-  This work was published on Cell Stem Cell at year 2018. I am a co-first author of it. <br>
-  Main content : <br>
-  Single-cell RNA sequencing analysis of chemical reprogramming depicts its trajectory and highlights dynamic intermediate cellular programs resembling early embryonic signatures.<br>
-  My contribution: <br>
-  &hearts;The heterogeneity analysis of all three subgroup cells<br>
-  &hearts;Trajectory Reconstruction during chemical induced reprogramming for three subgroups<br>
-  &hearts;All scatter plots, heatmaps, violin plots, venn and volcano plot<br>
-  &hearts;Design and draw the summary figure as well as the the cover<br>
-  &hearts;Keep in touch with those who want to repeat our analysis work and answer their questions.<br>
-  <br>
-  <b>Project 2: Individual gene based normalization in miRNA-seq</b> (co-work with <b>Prof. Mengqiu Dong</b>)<br>
-  We have noticed that various sever biases exist in miRNA-seq data and they can not be eliminated by standard normalized software, like DEseq2. We have built up a novel individual gene based normalization method while others treat all genes as the same. And it turns out performing the best over several popular ways.<br>
-  &hearts; Have finished the analysis of miRNA data from <i>c.elegans</i> by miRDeep2 <br> 
-  &hearts; Built up individual-gene based normalization method <br> 
-  &hearts; Have compared the normalization results between our method with others <br> 
-  &hearts; Work on the manuscript now <br>
-  <br>
-  <b>Project 3: Study reprogrammed Human tissues based on single cell RNA-seq analysis</b> (co-work with <b>Prof. Hongkui Deng</b>)<br>
-  This work is undergoing. I am fully in charge of  all analysis part and  is a co-first of this work.<br>
+  details: "Research Assistant (Advisor: <b>Dr. Cheng Li</b> & <b>Dr. Hongkui Deng</b>)<br>
+  &#10085;Depict chemical reprogramming trajectory with single-cell RNA-seq<br>
+  &#10085;Reconstruct trajectory and regulatory network for reprogrammed pancreatic beta cells<br>
   "
 - experience:
-  lab: <strong><font color="#6e3852" size="3"> Kreft Lab, Center of Computational Biology, University of Birmingham </font></strong>
-  link: "https://scholar.google.co.jp/citations?user=hLRsYpsAAAAJ&hl=en"
-  time: 1/2016-12/2016
-  company: Birmingham, UK
-  details: "<b>Project: Individual-based modeling of plasmid dynamics in chemostats and biofilms</b><br>
-  Illustrate differences, relationship between narrow host-range and broad host-range plasmids
-  with or without compatibility in two-species assemblages both in chemostats and biofilms by mass 
-  action and individual-based models.
-  <br> &hearts; Finished Mass-action Chemostat Model part including results analyses (using Matlab)
-  <br> &hearts; Worked on plasmid part of iDynoMics 1.0 as a contributor(using JAVA)
-  <br> &hearts; Write the manuscript now"
+  lab: <strong><font color="#6e3852" size="3"> University of Birmingham, UK </font></strong>
+  link: "https://scholar.google.com/citations?hl=zh-CN&user=hLRsYpsAAAAJ"
+  time: 01/2016 - 12/2016
+  company: Beijing, China
+  details: "Undergraduate student (Advisor: <b>Dr. Jan Ulrich Kreft</b>)<br>
+  &#10085;Mathematical modeling of plasmid dynamics in both chemostats and biofilms<br>
+  &#10085;Contributor for software iDynoMics 1.0<br>
+  "
