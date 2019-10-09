@@ -1,22 +1,17 @@
-- intro:
-  description: iGEM is the abbreviation of International Genetically Engineered Machine Competition, which is a worldwide synthetic biology competition and founded by MIT since 2005.
 - project:
   title: <b><font color="#6e3852" size="3"> Mixed-Reality Cells </font></b>
   link: "http://2015.igem.org/Team:HZAU-China"
   time: Hardware group leader  11/2014-10/2015
   location: Boston, MA, USA
-  tagline: "We intend to create a new method that a whole real life system would fuse with a whole virtual life system. To achieve our goal, we chose oscillation, a typical biological process, to represent life activity. The novel concept of Mixed-Reality Cell, which is a brand-new half-real and half-virtual life system consisted of a genetic oscillator built in <i>E.coli</i> and an e-oscillator simulated in a computer, is proposed in this project. A strongly coupled and synchronized mixed-reality state could thus be achieved by interactions between the real and the virtual part through an interface device composed of microfluidic chip and chemical/optical modulator.
-  <br> &hearts; Responsible for HZAU-China team recruitment
-  <br> &hearts; Design and build up the team project
-  <br> &hearts; Task arrangement and process control for hardware part
-  <br> &hearts; In charge of the design for microfluidic chip and programming on pyboard
-  <br> &hearts; Make a presentation in the Final Giant Jamboree and won a <b>Gold Medal</b> Award plus the <b>Best Information Processing Project Nomination</b> Award"
+  tagline: "The novel concept of Mixed-Reality Cell, which is a brand-new half-real and half-virtual life system consisted of a genetic oscillator built in <i>E.coli</i> and an e-oscillator simulated in a computer.
+  <br> &#10085; Design and set up the main idea of final project
+  <br> &#10085; Fully responsible for hardware part, design of microfluidic chip and programming on pyboard
+  <br> &#10085; Present in the Final Giant Jamboree"
 - project:
   title: <b><font color="#6e3852" size="3"> Rewirable Circuit </font></b>
   link: "http://2014.igem.org/Team:HZAU-China"
   time: Member  10/2013-11/2014
   location: Boston, MA, USA
-  tagline: "By designing and implementing a rewirable circuit, this project intends to address problems like overload of the host bacteria and signal crosstalk between circles. Instead of merely combining different functional modules, we constructed one integrated processing module with fewer parts by utilizing the common structures between modules. The circuit we designed is a rewirable one and the topological structure of the processing module can be altered to adapt to environmental change. The basic idea is to rewire the connections between parts and devices to implement multiple functions with the help of the site-specific recombination systems.
-  <br> &hearts; Read related papers and improved our project
-  <br> &hearts; Responsible for data analyses and basic molecular experiment
-  <br> &hearts; Won a <b>Gold Medal</b>"
+  tagline: "By designing and implementing a rewirable circuit, this project intends to address problems
+  like overload of the host bacteria and signal crosstalk between circles.
+  <br> &#10085; Responsible for data analysis and molecular experiments"
