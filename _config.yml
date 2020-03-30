@@ -1,6 +1,6 @@
 # Site Settings
-title: QianZhang's Resume
-#url: 'http://webjeda.com'
+title: Diana Sanchez Cañas
+#url: 'https://dayan5711.github.io/online-cv/'
 baseurl: '/online-cv' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -11,8 +11,8 @@ style: styles-4
 #style: styles-6
 
 #Profile information
-name: Qian Zhang
-tagline: undergraduate
+name: Diana Sanchez Cañas
+tagline: Estudiante de Técnico Informático
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
@@ -20,13 +20,12 @@ commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis d
 montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
 #sidebar links
-email: q.zhang.012@gmail.com
-phone: +1 8572052088
-website: qzhang.me #do not add http://
-#linkedin: Qian Zhang
-github: qrzhang
-twitter: '@qianzhangqz'
-wechat: qianzhangqz
+email: dayan5711@gmail.com
+# phone: ""
+#website: dayan5711.github.io/online-cv
+github: dayan5711
+# twitter: '@dayan5711'
+# wechat: dayan5711
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker

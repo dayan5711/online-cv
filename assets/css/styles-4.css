@@ -310,3 +310,23 @@ used for profile image
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
 
+.list_experience {
+    list-style: none;
+    padding: 0px;
+}
+
+.list_experience li:before {
+    content: '\2764';
+    margin: 0 0.5em;
+}
+
+.list_experience ul {
+    list-style: none;
+    padding: 0px;
+}
+
+.list_experience ul li:before {
+    content: '\2765';
+    margin: 0 0.5em;
+}
+

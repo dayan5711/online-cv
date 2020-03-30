@@ -1,12 +1,19 @@
 - education:
-  name: <font color="#6e3852">University of Birmingham, UK</font>
-  time: 1/2016-12/2016
-  role: Undergraduate Study Abroad
-  details: "<b>Highlighted Modules:</b><br>
-  Cancer Biology; Cellular Neurobiology; Machine Learning; Neural Computation;"
+  name: <font color="#6e3852">Técnico en Sistemas Microinformáticos y Redes</font>
+  time: 2019 - presente
+  details: "Ciudad Educativa Municipal Hipatia FUHEM, Rivas (España)"
+
 - education:
-  name: <font color="#6e3852">Huazhong Agricultural University, China</font>
-  time: 09/2012-06/2016 
-  role: B.S. in Bioengineering 
-  details: "<b>Highlighted Modules</b>:<br>
-  Biochemistry; Microbiology; Molecular Biology; Cell Biology;"
+  name: <font color="#6e3852">Curso Manipulación de Alimentos</font>
+  time: 2018 - 2019
+  details: "CEPA Rivas Vaciamadrid, Rivas (España)"
+
+- education:
+  name: <font color="#6e3852">Curso Manipulación de Alimentos</font>
+  time: 2016
+  details: "Ayuntamiento de Argamasilla de Alba (España)"
+
+- education:
+  name: <font color="#6e3852">Curso Superior de Reponedor de Supermercado</font>
+  time: 2015
+  details: "Ayuntamiento de Argamasilla de Alba (España)"

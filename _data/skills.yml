@@ -1,15 +1,15 @@
 - skill:
-  name: Linux & C & VB
-  level: 95%
-- skill:
-  name: R & Python & Matlab
-  level: 95%
-- skill:
-  name: Perl & JAVA
-  level: 85%
-- skill:
-  name: Sketch & Photoshop & AI
+  name: Windows
   level: 80%
 - skill:
-  name: HTML5 & CSS & JS
+  name: Linux & Bash Script
+  level: 75%
+- skill:
+  name: Redes y comuncaciones
+  level: 85%
+- skill:
+  name: Microsoft Office
+  level: 95%
+- skill:
+  name: Sketch & Photoshop & Modelado
   level: 70%
