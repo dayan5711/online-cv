@@ -1,35 +1,90 @@
 - experience:
-  lab: <strong><font color="#6e3852" size="3"> Howard Hughes Medical Institute | Harvard Medical School, USA</font></strong>
-  link: "https://scholar.google.com/citations?user=7UjSqHEAAAAJ&hl=zh-CN&inst=7575085548378563675&oi=ao"
-  time: 02/2019 - Present
-  company: Birmingham, UK
-  details: "Bioinformatician (Advisor: <b>Dr. Yi Zhang</b>)
-  <br> &#10085; Develop analysis algorithm for new technology, low-input Ribolace-seq
-  <br> &#10085; Infer treatment for Pancreatic Cancer with organoid culture system<br>
-  <br>
-  Collaborated with <b>Dr. David Scadden</b> (Harvard University)
-  <br> &#10085; Identify fate decision factors responsible for osteosarcoma with single-cell RNA-seq<br>
-  <br>
-  Collaborated with <b>Dr. Xiaojie Qiu</b> (HHMI, UCSF)
-  <br> &#10085; Contribute to a powerful tool to map single-cell manifold via structure learning
-  <br> &#10085; Apply this new method to hematopoiesis, organoid and other differentiation system
-  "
+  title: <strong><font color="#6e3852" size="3">Asistenta de Tienda / Cajera</strong>
+  time: 09/2016 - 09/2018
+  address: Argamasilla de Alba (España)
+  company: Grupo DIA
+  link: ""
+  details: '
+    <ul class="list_experience">
+      <li>Atención al público / Cobro / Pesaje / Embolsado
+        <ul>
+          <li style="margin-left:2em">Atención al público detectando necesidades, asesoramiento y venta de productos.</li>
+          <li style="margin-left:2em; padding-bottom: 0;">Manejo de caja con pagos en metálico / tarjeta.</li>
+          <li style="margin-left:2em; padding-bottom: 0;">Pesaje y codificación de productos perecederos.</li>
+        </ul>
+      </li>
+      <li>Funciones de reposición / almacenaje
+        <ul>
+          <li style="margin-left:2em">Reposición y presentación correcta de la mercancía.</li>
+          <li style="margin-left:2em; padding-bottom: 0;">Mantenimiento de la imagen de la tienda y organización del almacén.</li>
+        </ul>
+      </li>
+    </ul>'
 
 - experience:
-  lab: <strong><font color="#6e3852" size="3"> Peking University, China </font></strong>
-  link: "https://scholar.google.com/citations?hl=zh-CN&user=nJd3cIsAAAAJ"
-  time: 01/2017 - 01/2019
-  company: Beijing, China
-  details: "Research Assistant (Advisor: <b>Dr. Cheng Li</b> & <b>Dr. Hongkui Deng</b>)<br>
-  &#10085;Depict chemical reprogramming trajectory with single-cell RNA-seq<br>
-  &#10085;Reconstruct trajectory and regulatory network for reprogrammed pancreatic beta cells<br>
-  "
+  title: <strong><font color="#6e3852" size="3">Auxiliar de Limpieza</strong>
+  time: 02/2016 - 07/2016
+  address: Argamasilla de Alba (España)
+  company: Ayuntamiento de Argamasilla de Alba
+  details: '
+    <ul class="list_experience">
+      <li>Limpieza y desinfección de las áreas que asignadas de acuerdo a instrucciones recibidas.</li>
+      <li>Ordenado los muebles y equipos existentes en el área.</li>
+    </ul>'
+
 - experience:
-  lab: <strong><font color="#6e3852" size="3"> University of Birmingham, UK </font></strong>
-  link: "https://scholar.google.com/citations?hl=zh-CN&user=hLRsYpsAAAAJ"
-  time: 01/2016 - 12/2016
-  company: Beijing, China
-  details: "Undergraduate student (Advisor: <b>Dr. Jan Ulrich Kreft</b>)<br>
-  &#10085;Mathematical modeling of plasmid dynamics in both chemostats and biofilms<br>
-  &#10085;Contributor for software iDynoMics 1.0<br>
-  "
+  title: <strong><font color="#6e3852" size="3">Asistenta de Tienda</strong>
+  time: 07/2015 - 12/2015
+  address: Argamasilla de Alba (España)
+  company: Grupo DIA
+  details: '
+    <ul class="list_experience">
+      <li>Atención al público / Pesaje / Embolsado
+        <ul>
+          <li style="margin-left:2em">Atención al público detectando necesidades, asesoramiento y venta de productos.</li>
+          <li style="margin-left:2em; padding-bottom: 0;">Pesaje y codificación de productos perecederos.</li>
+        </ul>
+      </li>
+      <li>Funciones de reposición / almacenaje
+        <ul>
+          <li style="margin-left:2em">Reposición y presentación correcta de la mercancía.</li>
+          <li style="margin-left:2em; padding-bottom: 0;">Mantenimiento de la imagen de la tienda y organización del almacén.</li>
+        </ul>
+      </li>
+    </ul>'
+
+- experience:
+  title: <strong><font color="#6e3852" size="3">Auxiliar de Limpieza</strong>
+  time: 02/2013 - 08/2013
+  address: Argamasilla de Alba (España)
+  company: Ayuntamiento de Argamasilla de Alba
+
+- experience:
+  title: <strong><font color="#6e3852" size="3">Asistente de Tienda</strong>
+  time: 04/2010 - 12/2012
+  address: Argamasilla de Alba (España)
+  company: Zapatería Ramón
+
+- experience:
+  title: <strong><font color="#6e3852" size="3">Jornalera Agraria</strong>
+  time: 04/2009 - 12/2009
+  address: Argamasilla de Alba (España)
+  company: Sociedad Cooperatíva Agraría Nuestra Señora de Peñarroya
+
+- experience:
+  title: <strong><font color="#6e3852" size="3">Modista</strong>
+  time: 04/2006 - 01/2009
+  address: Argamasilla de Alba (España)
+  company: Confecciones Romelano
+
+- experience:
+  title: <strong><font color="#6e3852" size="3">Modista</strong>
+  time: 03/2001 - 09/2002
+  address: Argamasilla de Alba (España)
+  company: Confecciones Vitorio Guijarro García
+
+- experience:
+  title: <strong><font color="#6e3852" size="3">Modista</strong>
+  time: 11/2000 - 02/2001
+  address: Argamasilla de Alba (España)
+  company: Confecciones Virtudes Martín Consuegra
