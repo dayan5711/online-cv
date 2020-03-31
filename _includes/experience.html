@@ -4,22 +4,22 @@
 
     {% for experience in site.data.experience %}
     <div class="item">
-
         <div class="meta">
-
             <div class="upper-row">
-                <!-- <h3 class="job-title">{{ experience.role }}</h3> -->
+                {% if experience.link %}
                 <div class="experience-lab"><a href="{{ experience.link }}">{{ experience.title }}</a></div>
+                {% else %}
+                <h3 class="job-title">{{ experience.title }}</h3>
+                {% endif %}
                 <div class="time">{{ experience.time }}</div>
-                <div>{{ experience.company }} - {{ experience.address }}</div>
             </div>
             <!--//upper-row-->
-
         </div>
         <!--//meta-->
 
         {% if experience.details %}
         <div class="details">
+            <div class="company">{{ experience.company }} - {{ experience.address }}</div>
             <p>{{ experience.details }}</p>
         </div>
         <!--//details-->
@@ -28,7 +28,6 @@
     </div>
     <!--//item-->
     {% endfor %}
-
 </section>
 <!--//section-->
 {% endif %}

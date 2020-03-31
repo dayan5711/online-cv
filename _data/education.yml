@@ -1,19 +1,19 @@
 - education:
-  name: <font color="#6e3852">Técnico en Sistemas Microinformáticos y Redes</font>
+  name: Técnico en Sistemas Microinformáticos y Redes
   time: 2019 - presente
-  details: "Ciudad Educativa Municipal Hipatia FUHEM, Rivas (España)"
+  company: "Ciudad Educativa Municipal Hipatia FUHEM, Rivas (España)"
 
 - education:
-  name: <font color="#6e3852">Curso Manipulación de Alimentos</font>
+  name: Curso Manipulación de Alimentos
   time: 2018 - 2019
-  details: "CEPA Rivas Vaciamadrid, Rivas (España)"
+  company: "CEPA Rivas Vaciamadrid, Rivas (España)"
 
 - education:
-  name: <font color="#6e3852">Curso Manipulación de Alimentos</font>
+  name: Curso Manipulación de Alimentos
   time: 2016
-  details: "Ayuntamiento de Argamasilla de Alba (España)"
+  company: "Ayuntamiento de Argamasilla de Alba (España)"
 
 - education:
-  name: <font color="#6e3852">Curso Superior de Reponedor de Supermercado</font>
+  name: Curso Superior de Reponedor de Supermercado
   time: 2015
-  details: "Ayuntamiento de Argamasilla de Alba (España)"
+  company: "Ayuntamiento de Argamasilla de Alba (España)"

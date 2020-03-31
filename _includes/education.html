@@ -1,29 +1,29 @@
 {% if site.data.education %}
 <section class="section education-section">
-  <h2 class="section-title"><i class="fa fa-user"></i>Educación</h2>
+    <h2 class="section-title"><i class="fa fa-user"></i>Educación</h2>
 
-{% for education in site.data.education %}
-  <div class="item">
+    {% for education in site.data.education %}
+    <div class="item">
+        <div class="meta">
+            <div class="upper-row">
+                <h3 class="job-title">{{ education.name }}</h3>
+                <div class="time">{{ education.time }}</div>
+            </div>
+            <!--//upper-row-->
+        </div>
+        <!--//meta-->
 
-    <div class="meta">
-
-      <div class="upper-row">
-        <h3 class="job-title">{{ education.name }}</h3>
-        <div class="time">{{ education.time }}</div>
-      </div><!--//upper-row-->
-
-      <div class="company">{{ education.role }}</div>
-
-    </div><!--//meta-->
-
-    {% if education.details %}
-    <div class="details">
-      <p>{{ education.details }}</p>
-    </div><!--//details-->
-    {% endif %}
-
-  </div><!--//item-->
-{% endfor %}
-
-</section><!--//section-->
+        {% if education.details %}
+        <div class="details">
+            <div class="company">{{ education.role }}</div>
+            <p>{{ education.details }}</p>
+        </div>
+        <!--//details-->
+        {% endif %}
+        <br>
+    </div>
+    <!--//item-->
+    {% endfor %}
+</section>
+<!--//section-->
 {% endif %}
