@@ -13,13 +13,13 @@
         </div>
         <!--//meta-->
 
-        {% if education.details %}
         <div class="details">
-            <div class="company">{{ education.role }}</div>
+            <div class="company">{{ education.school }}</div>
+            {% if education.details %}
             <p>{{ education.details }}</p>
+            {% endif %}
         </div>
         <!--//details-->
-        {% endif %}
         <br>
     </div>
     <!--//item-->
