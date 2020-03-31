@@ -1,27 +1,32 @@
 {% if site.data.awards %}
 <section class="section awards-section">
-  <h2 class="section-title"><i class="fa fa-thumbs-up"></i>Honores &amp; Premios</h2>
+    <h2 class="section-title"><i class="fa fa-thumbs-up"></i>Honores &amp; Premios</h2>
 
-{% for award in site.data.awards %}
-  <div class="item">
+    {% for award in site.data.awards %}
+    <div class="item">
 
-    <div class="meta">
+        <div class="meta">
 
-      <div class="upper-row">
-        <p class="award-title">{{ award.title }}</p>
-        <div class="time">{{ award.time }}</div>
-      </div><!--//upper-row-->
+            <div class="upper-row">
+                <p class="award-title">{{ award.title }}</p>
+                <div class="time">{{ award.time }}</div>
+            </div>
+            <!--//upper-row-->
 
-    </div><!--//meta-->
+        </div>
+        <!--//meta-->
 
-    {% if award.details %}
-    <div class="details">
-      <p>{{ award.details }}</p>
-    </div><!--//details-->
-    {% endif %}
+        {% if award.details %}
+        <div class="details">
+            <p>{{ award.details }}</p>
+        </div>
+        <!--//details-->
+        {% endif %}
 
-  </div><!--//item-->
-{% endfor %}
-
-</section><!--//section-->
+        {% if forloop.last %}{% else %}<br>{% endif %}
+    </div>
+    <!--//item-->
+    {% endfor %}
+</section>
+<!--//section-->
 {% endif %}

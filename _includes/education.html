@@ -20,7 +20,8 @@
             {% endif %}
         </div>
         <!--//details-->
-        <br>
+
+        {% if forloop.last %}{% else %}<br>{% endif %}
     </div>
     <!--//item-->
     {% endfor %}
